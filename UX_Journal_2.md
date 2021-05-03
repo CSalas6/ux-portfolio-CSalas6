@@ -28,8 +28,9 @@ Since Main shows the "unlocked" state once any single door is open, in order to 
 &nbsp;&nbsp;&nbsp;&nbsp;The door handle acts as an independent door unlock. Assuming the door is locked, pulling the handle once will unlock the door, and pulling it a second time will actually open the door. The only indicator that anything has changed is the sound of the door unlocking; however, most people follow the convention that pulling a door will open said door. When the door does not open as expected, they will often miss the sound of it unlocking and tell me that the door is locked. 
 
 ##### By Myself & The Backseat  -  1.6
-When I am by myself, I sometimes end up accessing the backseat or passenger side to either get or put things in the car. I can not count the number of times I get out of my car, only to pull on the backseat door to be locked. I have to effectively get back into my car so that I can unlock all the doors before being able to access the backseat, since the only ways to unlock the door are the keyfob, Main, or inside door handle. Since I have opened my door, the Main will show the "unlocked" state so I have to press it twice before it will unlock the other doors for me. This makes a conventional process of simply turning around to the driver door to unlock the doors into something needlessly more complex. 
+&nbsp;&nbsp;&nbsp;&nbsp;When I am by myself, I sometimes end up accessing the backseat or passenger side to either get or put things in the car. I can not count the number of times I get out of my car, only to pull on the backseat door to be locked. I have to effectively get back into my car so that I can unlock all the doors before being able to access the backseat, since the only ways to unlock the door are the keyfob, Main, or inside door handle. Since I have opened my door, the Main will show the "unlocked" state so I have to press it twice before it will unlock the other doors for me. This makes a conventional process of simply turning around to the driver door to unlock the doors into something needlessly more complex. 
 
+***
 
 ### My Analysis
 
@@ -78,6 +79,7 @@ The **common convention** of cars follows the idea that every door in the vehicl
 
 The physical indicator on doors that I mention above is an example of **visual mapping** to show users that the indicator is for that particular door. 
 
+***
 
 ##### Postscript
 Iris has no trunk button on the inside of the car in exception to the keyfob. The assumed button for people to use is the one on the trunk itself that is fairly hidden and just above the back license plate. There are many times when I have picked up people and they wanted to put things in the trunk without knowing how to open it, which then leads to me having to get out and do it myself. 
